@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Equipos>
+    <nombre>
+        The Wandering Inn
+    </nombre>
+    <ciudad>
+        Liscor Outskirts
+    </ciudad>
+    <entrenador>
+        Lyonette du Marquin
+    </entrenador>
+    <jugadores>
+        <jugador posicion="portero">
+            Erin Summer Solstice
+        </jugador>
+        <nacionalidad>
+            USA
+        </nacionalidad>
+        
+        <jugador posicion="defensa">
+            Numbtongue
+        </jugador>
+        <nacionalidad>
+            The High Passes
+        </nacionalidad>
+
+    </jugadores>
+
+    <nombre>
+        Schutzaria's Gale
+    </nombre>
+    <ciudad>
+        Ehrenfest
+    </ciudad>
+    <entrenador>
+        Ferdinand 
+    </entrenador>
+    <jugadores>
+        <jugador posicion="delantero">
+            Ferdinand
+        </jugador>
+        <nacionalidad>
+            Adalgisa
+        </nacionalidad>
+        
+        <jugador posicion="medio">
+            Myne
+        </jugador>
+        <nacionalidad>
+            Japan
+        </nacionalidad>
+
+    </jugadores>
+
+</Equipos>

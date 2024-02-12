@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agenda>
+    <dia>
+        1
+            <prioridad>
+                MEDIA
+            </prioridad>
+            <horainicio>
+                12
+            </horainicio>
+            <horafin>
+                14
+            </horafin>
+            <nombreTarea>
+                TUTORÍAS
+            </nombreTarea>
+        2
+            <prioridad>
+                ALTA
+            </prioridad>
+            <horainicio>
+                12
+            </horainicio>
+            <horafin>
+                14
+            </horafin>
+            <nombreTarea>
+                AUTÓMATAS
+            </nombreTarea>
+        4
+            <prioridad>
+                ALTA   
+            </prioridad>
+            <horainicio>
+                9
+            </horainicio>
+            <horafin>
+                11
+            </horafin>
+            <nombreTarea>
+                PROCESADORES DE LENGUAJES
+            </nombreTarea>
+        4
+            <prioridad>
+                ALTA
+            </prioridad>
+            <horainicio>
+                16
+            </horainicio>
+            <horafin>
+                17
+            </horafin>
+            <nombreTarea>
+                EDI
+            </nombreTarea>
+        3
+            <prioridad>
+                ALTA
+            </prioridad>
+            <horainicio>
+                9
+            </horainicio>
+            <horafin>
+                11
+            </horafin>
+            <nombreTarea>
+                PROCESADORES DE LENGUAJES
+            </nombreTarea>
+
+        5
+            <prioridad>
+                BAJA
+            </prioridad>
+            <horainicio>
+                17
+            </horainicio>
+            <horafin>
+                18
+            </horafin>
+            <nombreTarea>
+                VER LA TELE
+            </nombreTarea>
+    </dia>
+
+</Agenda>

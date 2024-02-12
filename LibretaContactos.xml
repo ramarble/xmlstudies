@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacto>
+    <nombre>
+
+    </nombre>
+    <direccion>
+        <calle>
+
+        </calle>
+        
+        <zipcode>
+
+        </zipcode>
+
+        <city>
+
+        </city>
+    </direccion>
+
+    <contact>
+        <tlf>
+
+        </tlf>
+
+        <tlf2>
+
+        </tlf2>
+
+        <email>
+            
+        </email>
+    </contact>
+</contacto>
