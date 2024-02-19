@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <destinatario>
+        Juan Delgado Martínez
+    </destinatario>
+
+    <articulo>
+        Bicicleta A2023
+    </articulo>
+
+    <direccion>
+        <ciudad>
+            Alguna
+        </ciudad>
+        <calle>
+            Barco
+        </calle>
+        <numero>
+            4
+        </numero>
+        <pisoletra>
+            3º A
+        </pisoletra>
+    </direccion>
+    <fechaEntrega>
+        19-5-2019
+    </fechaEntrega>
+</pedidos>

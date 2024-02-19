@@ -7,7 +7,6 @@
         Liscor Outskirts
     </ciudad>
     <entrenador>
-        Lyonette du Marquin
     </entrenador>
     <jugadores>
         <jugador posicion="portero">
@@ -32,8 +31,7 @@
     <ciudad>
         Ehrenfest
     </ciudad>
-    <entrenador>
-        Ferdinand 
+    <entrenador> 
     </entrenador>
     <jugadores>
         <jugador posicion="delantero">

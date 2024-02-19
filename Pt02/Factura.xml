@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Facturas>
+    <InfoFactura ID="731">
+        <Fecha>12-01-2020</Fecha>
+        <Pago forma="Efectivo"></Pago>
+    </InfoFactura>
+    <DatosFacturacion>
+        <EntidadLegal>Equipos Digitales S.L.</EntidadLegal>
+        <DireccionFacturacion>
+            <Calle>Av. Valladolid</Calle>
+            <Ciudad>Madrid</Ciudad>
+            <Zipcode>28015</Zipcode>
+            <CodigoIdentificacionFiscal>Q-9876543</CodigoIdentificacionFiscal>
+        </DireccionFacturacion>
+        <Telefono>91.777.66.88</Telefono>
+        <Fax>91.777.66.89</Fax>
+    </DatosFacturacion>
+    <DatosCliente>
+        <Numero>879</Numero>
+        <NombreCompleto>
+            <Nombre>Darío</Nombre>
+            <Apellido1>Bueno</Apellido1>
+            <Apellido2>Gutiérrez</Apellido2>
+        </NombreCompleto>
+        <DireccionEnvio>
+            <Poblacion>Madrid</Poblacion>
+            <Provincia>Madrid</Provincia>
+            <Zipcode>28043</Zipcode>
+            <Calle>Av. Oporto</Calle>
+            <Numero>7</Numero>
+            <PisoPuerta>4º D</PisoPuerta>
+        </DireccionEnvio>
+    </DatosCliente>
+    <DatosFactura>
+        <Item Referencia="MII93000F/8" Cantidad="1">
+            <Descripcion>MICRO PENTIUM IV 3000MHZ FB800</Descripcion>
+            <Precio>230 eur.</Precio>
+            <IVA pct="16%"></IVA>
+            <Importe>266,80 eur.</Importe>
+        </Item>
+        <Item Referencia="MB8QDIP4" Cantidad="1">
+            <Descripcion>PLACA BASE QDI P4</Descripcion>
+            <Precio>180 eur.</Precio>
+            <IVA pct="16%"></IVA>
+            <Importe>208,80 eur.</Importe>
+        </Item>
+        <Item Referencia="MEDD512M32" Cantidad="2">
+            <Descripcion>DIMM DDR 512 3200</Descripcion>
+            <Precio>40 eur.</Precio>
+            <IVA pct="16%"></IVA>
+            <Importe>92,80 eur.</Importe>
+        </Item>
+        <Item Referencia="HD250GSA7" Cantidad="4">
+            <Descripcion>DISCO DURO 250GB S-ATA 7200</Descripcion>
+            <Precio>120 eur.</Precio>
+            <IVA pct="16%"></IVA>
+            <Importe>556,80 eur.</Importe>
+        </Item>
+
+        <Total>
+            <Base>970,00 eur</Base>
+            <IVA pct="16%"></IVA>
+            <Cuota>155,20 eur</Cuota>
+            1125,20 eur
+        </Total>
+    </DatosFactura>
+</Facturas>

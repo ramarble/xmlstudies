@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboles>
+    <arbol nombre="Acer monspessulanum">
+        <nombreComun>Arce de Montpellier</nombreComun>
+        <nombreComun>Arce Menor</nombreComun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>6 a 10 metros</altura>
+        <forma>
+            <copa>Esférica</copa>
+            <tronco>Recto con bifurcaciones</tronco>
+            <ramaje>Colgante</ramaje>
+        </forma><color season="Primavera">Haz verde brillante, envés verde blanquecino</color>
+        <resistencia>Heladas fuertes (hasta -15C)</resistencia>
+    </arbol>
+
+
+    <arbol nombre="Olea Europea">
+        <nombreComun>Olivo</nombreComun>
+        <nombreComun></nombreComun>
+        <vegetacion></vegetacion>
+        <altura>8 a 15 metros</altura>
+        <forma>
+            <copa>Irregular</copa>
+            <tronco>Irregular con bifurcaciones</tronco>
+            <ramaje></ramaje>
+        </forma>
+        <color season=""></color>
+        <resistencia></resistencia>
+    </arbol>
+
+
+    <arbol nombre="Ramaje tortuoso">
+            <nombreComun></nombreComun>
+            <nombreComun></nombreComun>
+            <vegetacion></vegetacion>
+            <altura></altura>
+            <forma>
+                <copa></copa>
+                <tronco></tronco>
+                <ramaje></ramaje>
+            </forma>
+            <color season="Primavera">Haz verde oscuro, envés verde plateado</color>
+            <resistencia>Heladas medias (Hasta -10C)</resistencia>
+        </arbol>
+
+
+    <arbol nombre="Platanus orientalis">
+        <nombreComun>Platano</nombreComun>
+        <nombreComun>Platanero</nombreComun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>20 a 25 metros</altura>
+        <forma>
+            <copa>Ovoidal</copa>
+            <tronco>Recto</tronco>
+            <ramaje>Expandido</ramaje>
+        </forma>
+        <color season="Primavera">Haz verde medio, envés verde claro</color>
+        <color season="Otoño">Ocre</color>
+        <resistencia>Heladas fuertas (Hasta -20C)</resistencia>
+    </arbol>
+
+    <arbol nombre="Quercus ilex">
+        <nombreComun>Encina</nombreComun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma>
+            <copa>Esférica</copa>
+            <copa>Elíptica Irregular</copa>
+            <tronco>Recto</tronco>
+            <ramaje>Tortuoso</ramaje>
+        </forma>
+        <color season="Primavera">Plateado en hojas jóvenes, en Hojas antiguas, haz verde oscuro, envés plateado</color>
+        <color season="Otoño">Ocre</color>
+        <resistencia>Heladas fuertes (hasta -15C)</resistencia>
+    </arbol>
+</arboles>
