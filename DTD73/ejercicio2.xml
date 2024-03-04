@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE direcciones SYSTEM "ejercicio2.dtd">
+
+<direcciones>
+    <dirección>
+    <tipoVia>Calle</tipoVia>
+    <nombre>Pastor</nombre>
+    <numero>5</numero>
+    </dirección>
+    <dirección>
+    <tipoVia>Avda</tipoVia>
+    <numero>5</numero>
+    <nombre>Pastor</nombre>
+    </dirección>
+    </direcciones>

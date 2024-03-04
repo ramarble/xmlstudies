@@ -1,0 +1,25 @@
+<agenda>
+    <contacto codigo="c001">
+    <nombre>Juan</nombre>
+    <apellidos>Marquez</apellidos>
+    <movil empresa="movistar">656773221</movil>
+    <movil>666123432</movil>
+    <fijo>912343820</fijo>
+    <movil>609398271</movil>
+    <email tipo="trabajo">juan@gmail.es</email>
+    <sexo>
+    <hombre/>
+    </sexo>
+    <comentarios></comentarios>
+    </contacto>
+    <contacto codigo="c002">
+    <nombre>Maria</nombre><apellidos>Bonilla</apellidos>
+    <movil>666232096</movil>
+    <fijo>923430675</fijo>
+    <email tipo="personal">maria@ gmail.com</email>
+    <sexo>
+    <mujer/>
+    </sexo>
+    <comentarios>Llamar sólo por la mañana.</comentarios>
+    </contacto>
+    </agenda>

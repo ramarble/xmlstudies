@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- mal escrito-->
+<micasa> <!-- no cerrado-->
+<habitación id="comedor"> <!-- id sin comillas-->
+<mueble>aparador</mueble> <!-- sin cerrar-->
+<mueble>sofá</mueble>
+<puerta a="balcón"></puerta> <!-- Comillas no estándar-->
+</habitación> <!-- Faltaba tilde-->
+</micasa>
